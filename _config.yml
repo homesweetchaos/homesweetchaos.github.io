@@ -1,16 +1,13 @@
 # Site settings
-name: name
-email: email
-url: url
-description: "A blog and a portfolio"
-author: "author"
-title: "BlogFolio"
+name: Home Sweet Chaos
+email: skylindiane@gmail.com
+url: 
+description: "Lifestyle blog about chaos of family life with kids."
+author: "Skylin"
+title: "Home Sweet Chaos Blog"
 permalink: pretty
 baseurl: /jekyll-theme-blogfolio
 
 # social
 github:
-  username: username
-
-twitter:
-  username: username
+  username: homesweetchaos
