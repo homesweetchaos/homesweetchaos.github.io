@@ -8,6 +8,10 @@ Hey, it's just my first post!
 
 From [http://slipsum.com/lite/](http://slipsum.com/lite/):
 
-"The path of the righteous man is beset on all sides by the iniquities of the selfish and the tyranny of evil men. Blessed is he who, in the name of charity and good will, shepherds the weak through the valley of darkness, for he is truly his brother's keeper and the finder of lost children. And I will strike down upon thee with great vengeance and furious anger those who would attempt to poison and destroy My brothers. And you will know My name is the Lord when I lay My vengeance upon thee."
+"Hey, it's just my first post!
 
-"Well, the way they make shows is, they make one show. That show's called a pilot. Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows. Some pilots get picked and become television programs. Some don't, become nothing. She starred in one of the ones that became nothing."
+I'm thrilled to be here and have my website up and running! I went to college for Computer Science with focus on Web development and programming. I'm really not very good at it, but I am a half-decent writer when I feel like it, so here I am beginning a blog on a website I created(ish). I say "ish" because I did borrow a template, because why do it from scratch when what I want has already been done? Even using a template isn't exactly a piece of cake though. Getting all the files in place and figuring out what needs to be edited and getting everything up and running together the way it's supposed to doesn't always go according to plan. So after a full day of tinkering with it, I think I finally figured it out. Tomorrow I'll begin moving over my Wordpress blog over here. Hooray!
+
+My Main reason for wanting to switch over to GitHub vs Wordpress is because I'm cheap. I want to use some of those advanced features (like coding... css, javascript, etc), and I don't want to pay to have that functionality. I got a degree so I can bypass that fee dang it!
+
+Anyway, thanks for stopping by. I apologize for the mess around here as things are still under construction, but I hope you'll come back again soon when things are a little bit prettier. Caoi! (Caoi? When do I say Caio?... I really don't know how to end a blog post... k bye.)"
