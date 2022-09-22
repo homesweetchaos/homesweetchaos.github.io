@@ -21,6 +21,10 @@ body {
   width: 100%;
 }
 
+.section {
+ background-color: #D2F0EA; 
+}
+
 .is-centered {
   display: block;
   margin: 0 auto;
