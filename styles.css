@@ -1,5 +1,5 @@
 .footer {
-  background-color: whitesmoke;
+  background-color: rgb(227, 227, 227);
   padding: 3rem 1.5rem 6rem;
 }
 
@@ -31,6 +31,6 @@ body {
   border-radius: 3%;
 }
 
-.header {
+.hero.is.primary {
   color: white;
 }
