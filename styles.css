@@ -8,7 +8,7 @@ html {
 }
 
 body {
-  background-color: #7bdcb5;
+  background-color: #D2F0EA;
   position: relative;
   padding-bottom: 6rem;
   min-height: 100%;
@@ -31,7 +31,6 @@ body {
   border-radius: 3%;
 }
 
-.hero.is-primary {
-  background-color: #FF8C69;
+.header {
   color: white;
 }
