@@ -16,6 +16,7 @@ body {
 }
 
 .page-footer {
+	background-color: whitesmoke;
   position: absolute;
   bottom: 0;
   padding: 1rem;
