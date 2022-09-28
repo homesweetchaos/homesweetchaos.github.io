@@ -32,6 +32,6 @@ body {
   border-radius: 3%;
 }
 
-.header {
+.hero.is.primary {
   color: white;
 }
